@@ -11,7 +11,7 @@ I'm Nadav, a Computer Science graduate interested in systems programming, Linux,
 
 #### 🔨 Recent pull requests
 {{range recentPullRequests 8}}
-{{- if not (or (and (eq .Repo.Name "raysan5/raylib") (or (eq .Title "Remap stb_vorbis malloc/free calls to RL_MALLOC/RL_FREE") (eq .Title " Remap stb_vorbis malloc/free calls to RL_MALLOC/RL_FREE"))) (and (eq .Repo.Name "numberisnan/gopher-webserver") (or (eq .Title "Feature/search root") (eq .Title "content search for root directories")))}}
+{{- if not (or (and (eq .Repo.Name "raysan5/raylib") (or (eq .Title "Remap stb_vorbis malloc/free calls to RL_MALLOC/RL_FREE") (eq .Title " Remap stb_vorbis malloc/free calls to RL_MALLOC/RL_FREE"))) (and (eq .Repo.Name "numberisnan/gopher-webserver") (or (eq .Title "Feature/search root") (eq .Title "content search for root directories"))) )}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 {{- end}}
