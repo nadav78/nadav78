@@ -4,7 +4,7 @@ I'm Nadav, a Computer Science graduate interested in systems programming, Linux,
 
 #### 👷 What I've been working on
 {{range recentContributions 5}}
-{{- if ne .Repo.Name "nadav78/nadav78.github.io"}}
+{{- if not (or (eq .Repo.Name "nadav78/nadav78.github.io") (eq .Repo.Name "nadav78/netval") (eq .Repo.Name "nadav78/RISC-V-Simon-Game"))}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) — {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 {{- end}}

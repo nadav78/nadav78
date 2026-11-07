@@ -5,8 +5,6 @@ I'm Nadav, a Computer Science graduate interested in systems programming, Linux,
 #### 👷 What I've been working on
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) — Podman: A tool for managing OCI containers and pods. (4 days ago)
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) — High-performance write &amp; space optimized transactional storage engine. (3 weeks ago)
-- [nadav78/netval](https://github.com/nadav78/netval) — UDP traffic generator &amp; network verification tool (3 months ago)
-- [nadav78/RISC-V-Simon-Game](https://github.com/nadav78/RISC-V-Simon-Game) — A Simon memory game implemented in RISC-V assembly (4 months ago)
 
 #### 🔨 Recent pull requests
 - [Honor containers.conf init default for container creation](https://github.com/podman-container-tools/podman/pull/30097) on [podman-container-tools/podman](https://github.com/podman-container-tools/podman) (6 days ago)
