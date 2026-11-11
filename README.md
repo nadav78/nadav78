@@ -16,6 +16,7 @@ I'm Nadav, a Computer Science graduate interested in systems programming, Linux,
 
 #### ⭐ Recently starred
 
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) — High-performance write &amp; space optimized transactional storage engine.
 
 ---
