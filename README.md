@@ -4,7 +4,7 @@ I'm Nadav, a Computer Science graduate interested in systems programming, Linux,
 
 #### 👷 What I've been working on
 
-- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) — Podman: A tool for managing OCI containers and pods. (1 week ago)
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) — Podman: A tool for managing OCI containers and pods. (2 weeks ago)
 - [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) — High-performance write &amp; space optimized transactional storage engine. (1 month ago)
 
 #### 🔨 Recent pull requests
