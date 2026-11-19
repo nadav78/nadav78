@@ -9,7 +9,7 @@ I'm Nadav, a Computer Science graduate interested in systems programming, Linux,
 
 #### 🔨 Recent pull requests
 
-- [libpod: create mount points for secrets](https://github.com/podman-container-tools/podman/pull/30306) on [podman-container-tools/podman](https://github.com/podman-container-tools/podman) (today)
+- [libpod: create mount points for secrets](https://github.com/podman-container-tools/podman/pull/30306) on [podman-container-tools/podman](https://github.com/podman-container-tools/podman) (1 day ago)
 - [fix `system connection add` running inside rootless user namespace](https://github.com/podman-container-tools/podman/pull/30142) on [podman-container-tools/podman](https://github.com/podman-container-tools/podman) (1 week ago)
 - [Honor containers.conf init default for container creation](https://github.com/podman-container-tools/podman/pull/30097) on [podman-container-tools/podman](https://github.com/podman-container-tools/podman) (2 weeks ago)
 - [fix: reject unsafe backup destinations and incomplete file copies](https://github.com/tidesdb/tidesdb/pull/694) on [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) (1 month ago)
